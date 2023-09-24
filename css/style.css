@@ -1,0 +1,212 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Taviraj:ital,wght@0,100;0,300;0,400;1,100;1,400&display=swap');
+
+.bg{
+    background-color: darkslateblue;
+    padding:20px 0px;
+}
+
+.link{
+    color:white !important;
+    font-size:16px;
+    letter-spacing: 1px;
+    margin-right: 40px;
+    font-weight: 400;
+    text-shadow: 1px 1px 1px white;
+}
+
+
+.link:hover{
+    color:dodgerblue !important;
+}
+
+
+.started{
+    background-color: dodgerblue;
+    padding:12px 24px;
+    font-size:20px;
+}
+
+.cover
+{
+    background-color: darkslateblue;
+    padding:90px 0px,
+}
+
+
+.cover-text{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+
+}
+
+.subtitle{
+    font-weight:600;
+    font-family:'Taviraj', serif;
+}
+
+
+.title{
+    font-size:65px;
+    font-weight: 700;
+    font-family: 'Taviraj', serif;
+}
+
+
+.description{
+    font-size:18px;
+    font-weight: 600;
+    font-family: 'Taviraj', serif;
+
+}
+
+.link-cover{
+    margin-left: 40px;
+    font-size: 20px;
+    font-family: 'Taviraj',serif;
+    font-weight: 400;
+    text-decoration: none;
+    border-bottom: 1px solid white;
+    padding-bottom: 4px;
+}
+
+
+.about{
+    padding:90px 0px;
+    background-color: #1a1f22;
+
+}
+
+.about-subtitle{
+    font-weight:400 ;
+    font-size: 28px;
+    font-family: 'Taviraj',serif;
+}
+
+.about-title{
+    
+        font-weight:700 ;
+        font-size: 65px;
+        font-family: 'Taviraj',serif;
+        margin-top:32px;
+
+}
+
+
+.about-desc{
+    font-size:16px;
+    margin-top:16px;
+    font-family: 'Taviraj',serif;
+    color:#abc4cc;
+    
+}
+
+.skills{
+    background-color:lightslategrey;
+    padding:50px 0px;
+}
+
+.section-subtitle{
+    font-size:28px;
+    
+    font-weight: 400;
+    font-family: 'Taviraj',serif;
+
+
+}
+
+.section-title{
+    font-size:28px;
+    
+    font-weight: 700;
+    font-family: 'Taviraj',serif;
+    margin-top:32px;
+
+
+
+}
+
+
+.progress-text{
+    font-size:24px;
+    font-family: 'Taviraj',serif;
+
+}
+
+
+.services{
+    background-color: darkslateblue;
+    padding:80px 0px;
+}
+
+
+.item-1{
+   border-right:1px solid rgb(18, 164, 142);
+   border-bottom:1px solid rgb(18, 164, 142);
+}
+
+.item-3{
+    border-bottom:1px solid rgb(18, 164, 142);
+ }
+
+ .item-4{
+    border-right:1px solid rgb(18, 164, 142);
+ }
+
+
+ .service-item{
+    transition:0.4s;
+
+ }
+
+ .service-item:hover{
+    background-color:mediumpurple
+ }
+
+ .counter{
+    background-color: #1a1f22;
+    padding:80px;
+ }
+
+ .counter-number{
+    font-size:50px;
+    font-family: 'Taviraj',serif;
+    font-weight: 700;
+    margin-top:24px;
+
+
+    
+ }
+
+ 
+ .counter-text{
+    font-size:24px;
+    font-family: 'Taviraj',serif;
+    font-weight: 500;  
+ }
+
+ .portfolio{
+    background-color: darkslateblue;;
+    padding: 80px 0px;
+
+ }
+
+
+
+ .contact{
+    background-color: darkslateblue;
+    padding: 80px 0px;
+ }
+
+
+ .contact-input{
+    background-color: transparent;
+ }
+ 
+
+ .footer{
+    background-color: #1a1f22;
+    padding:40px 0px;
+
+ }
